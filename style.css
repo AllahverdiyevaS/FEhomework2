@@ -1,0 +1,15 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+body{padding: 70px;}
+table,tr,td,th {border: 1px solid black}
+table tr td{ padding: 5px;}
+table tr th{padding: 5px;}
+img{width: 30px;margin-right: 5px;}
+
+h2{margin-bottom: 15px;
+
+}
+.kursi{ font-size: 30px;}
+ul{padding-left:50px;}
+li{font-size: 20px;}
